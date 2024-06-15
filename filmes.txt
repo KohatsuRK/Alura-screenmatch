@@ -1,0 +1,1 @@
+nome='The Lord of the Rings', anoDeLancamento=1978,duração: 13
